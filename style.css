@@ -1,0 +1,16 @@
+.row div{
+    margin: 10px;
+    background-color: #DDE8B9;
+    text-align: center;
+}
+body {
+    background-color:#CB8589;
+}
+nav.navbar{
+    background-color: #E8D2AE;
+}
+.row2 div {
+    background-color: #796465;
+    text-align: center;
+    margin: 30px;
+}
